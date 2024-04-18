@@ -12,7 +12,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install socket
 ```
 
-## Usage
+# Usage
+
+## Windows
 
 ```python
 
@@ -23,6 +25,20 @@ python3 server.py
 ```python
 
 python3 client.py
+
+```
+
+## MacOS / Linux
+
+```python
+
+./server.py
+
+```
+
+```python
+
+./client.py
 
 ```
 ## ScreenShots
